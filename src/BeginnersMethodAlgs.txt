@@ -1,0 +1,7 @@
+CrossFixer F' D R' D'
+Trigger R U R' U'
+SecondRight U R U R' U' F' U' F
+SecondLeft U' L' U' L U F U F'
+Sune R U R' U R U2 R'
+Riklas R U' L' U R' U' L
+FinalCorners R' D' R D
